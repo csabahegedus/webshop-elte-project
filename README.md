@@ -2,7 +2,6 @@
 
 # Web programming project at Eötvös Loránd University 
 
-
 Description in hungarian:
 
 ## Elektronikai webáruház
